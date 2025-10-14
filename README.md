@@ -1,6 +1,6 @@
 # 🌍 EarthPulse
 
-![EarthPulse - NASA Data Visualization](./pics/img1.png)
+![EarthPulse - NASA Data Visualization](./picture/img1.png)
 
 ## ✨ What's EarthPulse?
 
@@ -18,7 +18,6 @@ I've always been fascinated by environmental data and space technology. EarthPul
 - **📖 Story Mode**: Turn data into compelling visual stories
 - **💾 Easy Exports**: Download your findings in various formats
 - **🛰️ NASA API**: Direct connection to NASA's Earth Observation data
-- **📱 Responsive**: Looks great on everything from phones to desktop monitors
 
 ## 🛠️ Tech Stack
 
@@ -81,8 +80,8 @@ earthpulse/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/earthpulse.git
-   cd earthpulse
+   git clone https://github.com/Aditya-Nepal/Earthpulse.git
+   cd Earthpulse
    ```
 
 2. **Backend Setup**
